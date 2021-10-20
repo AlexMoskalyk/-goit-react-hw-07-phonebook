@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "contactName": "Alex maska",
+      "contactNumber": "5555555",
+      "id": 1
+    },
+    {
+      "contactName": "rosie simpson",
+      "contactNumber": "0986008888",
+      "id": 2
+    },
+    {
+      "contactName": "asdadsd",
+      "contactNumber": "3435345",
+      "id": 3
+    }
+  ]
+}
